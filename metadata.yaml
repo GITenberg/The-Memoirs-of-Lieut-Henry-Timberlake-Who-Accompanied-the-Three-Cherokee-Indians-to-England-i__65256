@@ -1,11 +1,16 @@
 _repo: The-Memoirs-of-Lieut-Henry-Timberlake-Who-Accompanied-the-Three-Cherokee-Indians-to-England-i__65256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65256-h/images/cover.jpg
 creator:
   author:
     agent_name: Timberlake, Henry
     gutenberg_agent_id: '53257'
     url: http://www.gutenberg.org/2009/agents/53257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65256#The-Memoirs-of-Lieut-Henry-Timberlake-Who-Accompanied-the-Three-Cherokee-Indians-to-England-i_
 gutenberg_issued: '2021-05-04'
 gutenberg_type: Text
 identifiers:
